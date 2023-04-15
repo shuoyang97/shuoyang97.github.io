@@ -6,7 +6,11 @@ body {
 
 h1 {
     color: black;
+    text-align: left;
+    left: 20px;
   }
 p {
     color: cornflowerblue;
+    text-align: left;
+    left: 20px;
 }
