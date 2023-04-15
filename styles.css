@@ -1,5 +1,12 @@
 body {
     margin: 0;
-    background-color: paleturquoise;
+    background-color: gray;
     text-align: center;
 }
+
+h1 h1 {
+    color: black;
+  }
+  p {
+    color: cornflowerblue;
+  }
